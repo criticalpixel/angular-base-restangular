@@ -1,4 +1,5 @@
-var core =  angular.module('core', []);
+// Core with dependencies 
+var core =  angular.module('core', ['restangular']);
 
 core.factory('foo', function(){
 	return "HelloWorld";

@@ -1,0 +1,24 @@
+	{
+  "name": "Angular-Base-Restangular",
+  "description": "Angular skeleton app with restangular",
+  "dependencies": {
+    "restangular": "1.5.x"
+  },
+  "keywords": [
+    "restangular",
+    "skeleton",
+    "angular"
+  ],
+  "authors": [
+    "Thomas Horvath"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
